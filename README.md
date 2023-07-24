@@ -1,3 +1,4 @@
+![logo](https://github.com/tanisha00999/tanisha00999/blob/main/WhatsApp%20Image%202023-07-24%20at%2018.24.24.jpeg)
 <h1 align="center">Hi 👋, I'm Tanisha Dhoot</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt = "data science" width = "400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
